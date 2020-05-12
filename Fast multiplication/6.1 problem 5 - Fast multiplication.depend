@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572064897 source:d:\programming souce\lab4\6.1 problem 5 - fast multiplication\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572064144 source:d:\programming souce\lab4\5 - problem 4 - gregorian calendar\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
