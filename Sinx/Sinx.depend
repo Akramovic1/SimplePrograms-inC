@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572688358 source:d:\programming souce\lab5\sinx\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
