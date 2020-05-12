@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1576285940 source:d:\programming souce\lab8\count the words in string\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
